@@ -1,0 +1,21 @@
+
+label{
+    display:inline-block;
+    width: max-content;
+    font-weight:bold;
+    font-size: 16px;
+}
+span {
+    font-size: 16px;
+}
+.contrainer2{
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+    max-width: 700px;
+    width: 60%;
+    padding: 5%;
+    border: 1px solid #ccc;
+}
+.div{
+    width: 60%;
+}
